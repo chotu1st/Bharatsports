@@ -1,0 +1,93 @@
+
+::-webkit-scrollbar {
+width: 0px; /* remove scrollbar space */
+background: transparent; /* optional: just make scrollbar invisible */
+}
+/* optional: show position indicator in red */
+::-webkit-scrollbar-thumb {
+background: #FF0000;
+}
+.top-nav-bar
+{
+	height: 50px;
+	top: 0;
+	margin :0;		
+	background:#3498DB;	
+	border-bottom: 3px solid #3498DB;
+	z-index: 99;
+	position:fixed;
+	width: 100%;
+	display: inline-flex;
+	background-color: #3498DB;
+	font-family: sans-serif;    
+    overflow: hidden;
+}
+
+.leftitem{min-width: 60%;}
+.logo
+{
+	height: 40px;
+	margin: 8px 10px;
+	z-index: 101;
+
+}
+.logo:hover{
+		transform: rotate(360deg);		
+		transition: ease 1.0s;
+		
+}
+
+.btns{margin-left: all;}
+
+.btns button
+{
+	margin-left:16px;
+	margin-top: 8px;
+	border-left: 2px solid white;
+	border-top: none;
+	border-bottom: none;
+	border-right: none;
+	background-color: transparent;
+	color: white;
+	text-decoration: none;		
+	padding-left: 14px;
+	padding-right: 14px;
+	position: relative;
+	height: 30px;
+	
+
+}
+
+
+
+.btns button a {
+	font-size: 16px;
+	font-weight: bold;
+	margin-top: 4px;
+	color: #fff;
+	text-decoration: none; 
+}
+
+.fa-shopping-basket
+{
+	margin-right: 5px;
+	font-size: 18px;
+	margin-top: 4px;
+
+}
+.fa-user-circle{margin-right: 5px; margin-top: 6px;}
+
+.fa-shopping-bag{margin-right: 5px; margin-top: 6px;}
+.btns button:hover{
+	transform: scale(1.2);
+	transition: all .2s ease;
+	text-decoration: none;
+	
+}
+
+.fa-user-secret{
+	font-size: 18px;
+	margin-right: 5px;
+	margin-top: 4px;
+	color: red;
+}

@@ -1,0 +1,48 @@
+[10-Feb-2021 14:55:42 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hrts9qybf370/public_html/bharatsports/admin/dbconfig.php on line 2
+[10-Feb-2021 15:17:38 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hrts9qybf370/public_html/bharatsports/admin/dbconfig.php on line 2
+[10-Feb-2021 15:18:09 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hrts9qybf370/public_html/bharatsports/admin/dbconfig.php on line 2
+[10-Feb-2021 15:18:10 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hrts9qybf370/public_html/bharatsports/admin/dbconfig.php on line 2
+[10-Feb-2021 15:18:11 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hrts9qybf370/public_html/bharatsports/admin/dbconfig.php on line 2
+[10-Feb-2021 15:18:12 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hrts9qybf370/public_html/bharatsports/admin/dbconfig.php on line 2
+[10-Feb-2021 15:20:37 UTC] PHP Notice:  Undefined index: username in /home/hrts9qybf370/public_html/bharatsports/admin/security.php on line 15
+[10-Feb-2021 15:20:37 UTC] PHP Notice:  Undefined index: username in /home/hrts9qybf370/public_html/bharatsports/admin/includes/navbar.php on line 293
+[10-Feb-2021 15:20:37 UTC] PHP Notice:  Undefined index: username in /home/hrts9qybf370/public_html/bharatsports/admin/includes/navbar.php on line 294
+[10-Feb-2021 15:20:37 UTC] PHP Notice:  Undefined variable: adminname in /home/hrts9qybf370/public_html/bharatsports/admin/includes/navbar.php on line 315
+[10-Feb-2021 15:20:37 UTC] PHP Notice:  Undefined variable: display in /home/hrts9qybf370/public_html/bharatsports/admin/includes/navbar.php on line 318
+[10-Feb-2021 15:20:37 UTC] PHP Notice:  Undefined variable: adminname in /home/hrts9qybf370/public_html/bharatsports/admin/index.php on line 22
+[10-Feb-2021 15:21:00 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hrts9qybf370/public_html/bharatsports/admin/logincode.php on line 5
+[10-Feb-2021 15:22:13 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hrts9qybf370/public_html/bharatsports/admin/security.php on line 2
+[10-Feb-2021 15:22:50 UTC] PHP Notice:  Undefined index: username in /home/hrts9qybf370/public_html/bharatsports/admin/security.php on line 15
+[10-Feb-2021 15:22:50 UTC] PHP Notice:  Undefined index: username in /home/hrts9qybf370/public_html/bharatsports/admin/includes/navbar.php on line 293
+[10-Feb-2021 15:22:50 UTC] PHP Notice:  Undefined index: username in /home/hrts9qybf370/public_html/bharatsports/admin/includes/navbar.php on line 294
+[10-Feb-2021 15:22:50 UTC] PHP Notice:  Undefined variable: adminname in /home/hrts9qybf370/public_html/bharatsports/admin/includes/navbar.php on line 315
+[10-Feb-2021 15:22:50 UTC] PHP Notice:  Undefined variable: display in /home/hrts9qybf370/public_html/bharatsports/admin/includes/navbar.php on line 318
+[10-Feb-2021 15:22:50 UTC] PHP Notice:  Undefined variable: adminname in /home/hrts9qybf370/public_html/bharatsports/admin/index.php on line 22
+[10-Feb-2021 15:23:22 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hrts9qybf370/public_html/bharatsports/admin/register_edit.php on line 4
+[10-Feb-2021 15:23:48 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hrts9qybf370/public_html/bharatsports/admin/code.php on line 5
+[10-Feb-2021 15:24:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hrts9qybf370/public_html/bharatsports/admin/security.php on line 2
+[14-Feb-2021 06:19:27 UTC] PHP Notice:  Undefined index: username in /home/hrts9qybf370/public_html/bharatsports/admin/security.php on line 15
+[14-Feb-2021 06:19:27 UTC] PHP Notice:  Undefined index: username in /home/hrts9qybf370/public_html/bharatsports/admin/includes/navbar.php on line 293
+[14-Feb-2021 06:19:27 UTC] PHP Notice:  Undefined index: username in /home/hrts9qybf370/public_html/bharatsports/admin/includes/navbar.php on line 294
+[14-Feb-2021 06:19:27 UTC] PHP Notice:  Undefined variable: adminname in /home/hrts9qybf370/public_html/bharatsports/admin/includes/navbar.php on line 315
+[14-Feb-2021 06:19:27 UTC] PHP Notice:  Undefined variable: display in /home/hrts9qybf370/public_html/bharatsports/admin/includes/navbar.php on line 318
+[14-Feb-2021 06:19:27 UTC] PHP Notice:  Undefined variable: adminname in /home/hrts9qybf370/public_html/bharatsports/admin/index.php on line 22
+[21-Feb-2021 12:16:10 UTC] PHP Notice:  Undefined index: username in /home/hrts9qybf370/public_html/bharatsports/admin/security.php on line 15
+[21-Feb-2021 12:16:10 UTC] PHP Notice:  Undefined index: username in /home/hrts9qybf370/public_html/bharatsports/admin/includes/navbar.php on line 293
+[21-Feb-2021 12:16:10 UTC] PHP Notice:  Undefined index: username in /home/hrts9qybf370/public_html/bharatsports/admin/includes/navbar.php on line 294
+[21-Feb-2021 12:16:11 UTC] PHP Notice:  Undefined variable: adminname in /home/hrts9qybf370/public_html/bharatsports/admin/includes/navbar.php on line 315
+[21-Feb-2021 12:16:11 UTC] PHP Notice:  Undefined variable: display in /home/hrts9qybf370/public_html/bharatsports/admin/includes/navbar.php on line 318
+[21-Feb-2021 12:16:11 UTC] PHP Notice:  Undefined variable: adminname in /home/hrts9qybf370/public_html/bharatsports/admin/index.php on line 22
+[21-Feb-2021 12:21:54 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hrts9qybf370/public_html/bharatsports/admin/security.php on line 2
+[12-Apr-2021 18:29:20 UTC] PHP Notice:  Undefined index: username in /home/hrts9qybf370/public_html/bharatsports/admin/security.php on line 15
+[12-Apr-2021 18:29:20 UTC] PHP Notice:  Undefined index: username in /home/hrts9qybf370/public_html/bharatsports/admin/includes/navbar.php on line 293
+[12-Apr-2021 18:29:20 UTC] PHP Notice:  Undefined index: username in /home/hrts9qybf370/public_html/bharatsports/admin/includes/navbar.php on line 294
+[12-Apr-2021 18:29:20 UTC] PHP Notice:  Undefined variable: adminname in /home/hrts9qybf370/public_html/bharatsports/admin/includes/navbar.php on line 315
+[12-Apr-2021 18:29:20 UTC] PHP Notice:  Undefined variable: display in /home/hrts9qybf370/public_html/bharatsports/admin/includes/navbar.php on line 318
+[12-Apr-2021 18:29:20 UTC] PHP Notice:  Undefined variable: adminname in /home/hrts9qybf370/public_html/bharatsports/admin/index.php on line 22
+[19-Jun-2021 15:50:58 UTC] PHP Notice:  Undefined index: username in /home/hrts9qybf370/public_html/bharatsports/admin/security.php on line 15
+[19-Jun-2021 15:50:58 UTC] PHP Notice:  Undefined index: username in /home/hrts9qybf370/public_html/bharatsports/admin/includes/navbar.php on line 293
+[19-Jun-2021 15:50:58 UTC] PHP Notice:  Undefined index: username in /home/hrts9qybf370/public_html/bharatsports/admin/includes/navbar.php on line 294
+[19-Jun-2021 15:50:58 UTC] PHP Notice:  Undefined variable: adminname in /home/hrts9qybf370/public_html/bharatsports/admin/includes/navbar.php on line 315
+[19-Jun-2021 15:50:58 UTC] PHP Notice:  Undefined variable: display in /home/hrts9qybf370/public_html/bharatsports/admin/includes/navbar.php on line 318
+[19-Jun-2021 15:50:58 UTC] PHP Notice:  Undefined variable: adminname in /home/hrts9qybf370/public_html/bharatsports/admin/index.php on line 22
